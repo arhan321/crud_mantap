@@ -1,0 +1,17 @@
+.btn-custom {
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.table th {
+  font-weight: 600;
+  background-color: #f2f2f2;
+}
+
+.alert {
+  margin-top: 1rem;
+}
